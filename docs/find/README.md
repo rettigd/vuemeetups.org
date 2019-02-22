@@ -183,7 +183,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - California
   - Los Angeles - [Vue.js LA](https://www.meetup.com/VuejsLA/)
-  - San Diego - [San Diego VueJS Meetup](https://meetup.com/San-Diego-VueJS-Meetup)
+  - San Diego - [VueSD](https://www.meetup.com/sandiegojs/)
   - San Francisco - [Vue.sf](https://meetup.com/vue-sf)
   - San Francisco - [San Francisco Vue.js Meetup](https://meetup.com/VuejsSF)
 - Colorado
